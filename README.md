@@ -55,11 +55,13 @@
 ---
 
 ### Skills Progress:
+<h3 align="left">Skills Progress:</h3>
 <p align="left">
-  <img src="https://progress-bar.dev/50/?title=API%20Testing&width=200&color=blue" alt="API Testing progress" />
-  <img src="https://progress-bar.dev/70/?title=Web%20Testing&width=200&color=blue" alt="Web Testing progress" />
-  <img src="https://progress-bar.dev/40/?title=Automation%20Testing&width=200&color=blue" alt="Automation Testing progress" />
+  <img src="https://img.shields.io/badge/API%20Testing-50%25-blue" alt="API Testing progress" />
+  <img src="https://img.shields.io/badge/Web%20Testing-70%25-blue" alt="Web Testing progress" />
+  <img src="https://img.shields.io/badge/Automation%20Testing-40%25-blue" alt="Automation Testing progress" />
 </p>
+
 
 ---
 
