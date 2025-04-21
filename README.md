@@ -42,8 +42,9 @@
 
 <h3 align="left">Github Activity Graph:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mahika1989&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="mahika1989" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahika1989&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="mahika1989" />
 </p>
+
 
 <h3 align="left">Skills Progress:</h3>
 <p align="left">
