@@ -17,7 +17,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@malyanmahika7" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/mahika-malyan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
@@ -56,4 +56,3 @@
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mahika1989.mahika1989" alt="Visitor Badge" />
 </p>
-
